@@ -1,4 +1,4 @@
-# HospiDB-Project
+# HospiDB
  A Java Application for Hospital Management using MySQL Database Connectivity
 
 ## App
